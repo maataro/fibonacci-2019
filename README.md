@@ -11,4 +11,4 @@
   - Mapの作成: const memo = new Map(); 
   - 値をセットする: memo.set(key, value);
   - 値を取得する: memo.get(key);
-  - 特定のキーが存在するか確認する: memo.has(キー) 
+  - 特定のキーが存在するか確認する: memo.has(key) 
